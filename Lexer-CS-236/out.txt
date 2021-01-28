@@ -1,0 +1,38 @@
+(SCHEMES,"Schemes",1)
+Total Tokens = 19
+(COLON,":",1)
+Total Tokens = 19
+(ID,"snap",2)
+Total Tokens = 19
+(LEFT_PAREN,"(",2)
+Total Tokens = 19
+(ID,"S",2)
+Total Tokens = 19
+(COMMA,",",2)
+Total Tokens = 19
+(ID,"N",2)
+Total Tokens = 19
+(COMMA,",",2)
+Total Tokens = 19
+(ID,"A",2)
+Total Tokens = 19
+(COMMA,",",2)
+Total Tokens = 19
+(ID,"P",2)
+Total Tokens = 19
+(RIGHT_PAREN,")",2)
+Total Tokens = 19
+(ID,"HasSameAddress",3)
+Total Tokens = 19
+(LEFT_PAREN,"(",3)
+Total Tokens = 19
+(ID,"X",3)
+Total Tokens = 19
+(COMMA,",",3)
+Total Tokens = 19
+(ID,"Y",3)
+Total Tokens = 19
+(RIGHT_PAREN,")",3)
+Total Tokens = 19
+(EOF,"",4)
+Total Tokens = 19
